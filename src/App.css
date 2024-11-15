@@ -1,0 +1,15 @@
+/* App.css */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+  background-color: max-w-md mx-auto mt-10 p-6 bg-white shadow-md;
+  
+}
+
+.main-content {
+
+  flex-grow: 1; 
+  
+   
+}
